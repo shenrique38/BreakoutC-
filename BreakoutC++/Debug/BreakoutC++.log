@@ -1,0 +1,113 @@
+﻿  Ball.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(21): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(22): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\ball.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Block.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(25): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(26): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(29): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(30): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(33): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(34): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(39): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(40): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(43): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(44): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(47): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(48): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(53): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(54): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(57): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(58): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(61): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(62): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(67): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(68): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(71): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(72): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(75): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\block.cpp(76): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Boarders.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameManager.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameObject.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MapHangler.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(135): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(136): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(146): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(147): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(173): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(224): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerPad.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(32): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(33): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(38): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(39): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\playerpad.cpp(114): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PowerUp.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\powerup.cpp(17): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\powerup.cpp(18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\powerup.cpp(24): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\powerup.cpp(25): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Thor.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(14): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(15): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(19): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(22): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(23): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(26): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(27): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(30): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(31): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(36): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(37): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(40): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(41): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(44): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(45): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(48): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(49): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(52): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(53): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(56): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(57): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\thor.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(135): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(136): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(146): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(147): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(173): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\maphangler.h(224): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2017\projects\breakoutc++\breakoutc++\main.cpp(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  BreakoutC++.vcxproj -> D:\Documents\Visual Studio 2017\Projects\BreakoutC++\Debug\BreakoutC++.exe
