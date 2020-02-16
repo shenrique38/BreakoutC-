@@ -1,5 +1,5 @@
 # BreakoutC++
-This project was created using C++, Gimp, and SDL through the software Visual Studio 2017. The game has the same mechanics as the breakout game, but with changes in the design, and addition of features to make it feel like a Viking breakout game.
+This project was created using C++, Gimp, Audacity and SDL through the software Visual Studio 2017. The game has the same mechanics as the breakout game, but with changes in the design, and addition of features to make it feel like a Viking breakout game.
  
  
 Credits:
