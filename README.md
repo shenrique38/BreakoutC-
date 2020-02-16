@@ -7,6 +7,6 @@ I used parts of codes from https://lazyfoo.net/tutorials/SDL/index.php. This web
 
 I used the code provided in this website http://www.danielsoltyka.com/programming/2010/05/30/c-vector2d-rectangle-classes/ that has two structucs: (1) that represents a 2D Vector, with some functionalities; (2)that represents a Rectangle. I made some changes in the code, and added new features such as Vector2D reflection, and the directionals to make my work easier. 
 
-Art: All of the images, sounds and font were obtained from different websites, and they were all free to use, if not for commercial purposes. 
+Art: All of the images, sounds and font were obtained from different websites, and they were all free to use, if not for commercial purposes. I used a snippet (0.2sec) of the skyrim game theme song.
 
 Project Video: https://drive.google.com/drive/folders/1M213IGU64UgZGLbnK4J5BarnytA_YA68?usp=sharing
